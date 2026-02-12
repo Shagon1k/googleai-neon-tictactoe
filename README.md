@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Neon Grid
 
-# Run and deploy your AI Studio app
+A visually stunning, cyberpunk-themed Tic-Tac-Toe game featuring local multiplayer. Experience the classic game with neon aesthetics, built with React, TypeScript, and Tailwind CSS.
 
-This contains everything you need to run your app locally.
+## Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/drive/1FAx-vIvAWl4DIqGhXO5B1a-CLknaUWAP
+The application is deployed and available at:  
+👉 **[https://googleai-neon-tictactoe.vercel.app/](https://googleai-neon-tictactoe.vercel.app/)**
 
-## Run Locally
+## Features
 
-**Prerequisites:**  Node.js
+*   **Neon Aesthetics:** Glowing visual effects and smooth animations.
+*   **Local Multiplayer:** Two players can play simultaneously on the same device.
+*   **Responsive Design:** Optimized for both desktop and mobile screens.
+*   **Modern Stack:** Built using React 18, Vite, and Tailwind CSS.
 
+## Getting Started
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+To run this project locally:
+
+1.  **Install dependencies**
+    ```bash
+    npm install
+    ```
+
+2.  **Start development server**
+    ```bash
+    npm run dev
+    ```
+
+3.  **Build for production**
+    ```bash
+    npm run build
+    ```
